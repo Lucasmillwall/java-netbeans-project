@@ -61,7 +61,7 @@ public class FallingBlocks extends JPanel implements ActionListener, KeyListener
         });
     }
 
-    // ✅ CONSTRUCTOR MUST MATCH CLASS NAME EXACTLY
+    
     public FallingBlocks() {
         setPreferredSize(new Dimension(WIDTH, HEIGHT));
         setBackground(Color.BLACK);
